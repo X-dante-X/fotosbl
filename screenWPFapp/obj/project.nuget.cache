@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "gUyHOyrjfxl+ib1ratYNLEYvqPJ4nRG0jQ0cwtk6TPGWlar2TvEISZuzvzNuNzyQIiT+nmKWGUXEqayJOXn+zg==",
+  "dgSpecHash": "SUdMTn8ct9HAt2Bb5tyQT1MTx9vdsepp7Dsg92XF4PL0fDH8kQdRprAQr5KGx1JbrirSccEB+GcRJxWaaXOkyw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\fotosbl\\screenWPFapp\\screenWPFapp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\solom\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\solom\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
